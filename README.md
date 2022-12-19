@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Cursando Bacharelado em Tecnologia da Informação
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/RonyDomingos">
